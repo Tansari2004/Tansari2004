@@ -1,6 +1,8 @@
 # Hi, I'm Tarik Alansari
 
-Master of Data Analytics (AI) student at Western University, focused on data analytics, machine learning and practical software development.
+I founded RIWAQ For Software LLC and led the software development of [DiaCare](https://diacare.health), a bilingual diabetes and weight-management platform. My work spans product design, Flutter development, Firebase integration, backend APIs and healthcare-safety controls. [Read the product and engineering case study](https://github.com/Tansari2004/diacare-case-study).
+
+I'm also a Master of Data Analytics (AI) student at Western University, building projects in data analytics, machine learning and software development.
 
 ## Featured projects
 
